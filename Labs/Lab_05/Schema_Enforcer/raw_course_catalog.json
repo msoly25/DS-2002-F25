@@ -1,0 +1,46 @@
+[
+  {
+    "course_id": "DS2002",
+    "section": "001",
+    "title": "Data Science Systems",
+    "level": 200,
+    "instructors": [
+      {
+        "name": "Austin Rivera",
+        "role": "Primary"
+      },
+      {
+        "name": "Heywood Williams-Tracy",
+        "role": "TA"
+      }
+    ]
+  },
+  {
+    "course_id": "ENGL3050",
+    "section": "002",
+    "title": "Literary Translation Workshop",
+    "level": 300,
+    "instructors": [
+      {
+        "name": "Claire Fontaine",
+        "role": "Primary"
+      }
+    ]
+  },
+  {
+    "course_id": "PHIL2400",
+    "section": "001",
+    "title": "Ethics and Technology",
+    "level": 200,
+    "instructors": [
+      {
+        "name": "Dr. Omar Singh",
+        "role": "Primary"
+      },
+      {
+        "name": "Jules Tan",
+        "role": "TA"
+      }
+    ]
+  }
+]
