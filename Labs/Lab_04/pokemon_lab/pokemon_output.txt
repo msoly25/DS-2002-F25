@@ -1,0 +1,40 @@
+--- Starting Portfolio Build Workflow ---
+Do you want to add a NEW card set? (yes/no)
+Do you want to refresh ALL existing card sets? (yes/no)
+Lookup columns: ['card_id', 'card_name', 'card_number', 'set_id', 'set_name', 'card_market_value']
+Merged columns: ['card_name_x', 'set_id', 'card_number', 'binder_name', 'page_number', 'slot_number', 'card_id', 'card_name_y', 'set_name', 'card_market_value']
+Portfolio successfully written to card_portfolio.csv
+
+📊 Portfolio Summary
+Total Market Value: $3,815.32
+Most Valuable Card:
+  Name: UNKNOWN
+  ID: base1-4
+  Value: $458.29
+
+--- Running Test Pipeline (Built-in Test Modes) ---
+Lookup columns: ['card_id', 'card_name', 'card_number', 'set_id', 'set_name', 'card_market_value']
+Merged columns: ['card_name_x', 'set_id', 'card_number', 'binder_name', 'page_number', 'slot_number', 'card_id', 'card_name_y', 'set_name', 'card_market_value']
+Portfolio successfully written to test_card_portfolio.csv
+
+📊 Portfolio Summary
+Total Market Value: $326.55
+Most Valuable Card:
+  Name: UNKNOWN
+  ID: base0-4
+  Value: $250.75
+
+Test complete.
+--- Running Test Pipeline (Built-in Test Modes) ---
+Lookup columns: ['card_id', 'card_name', 'card_number', 'set_id', 'set_name', 'card_market_value']
+Merged columns: ['card_name_x', 'set_id', 'card_number', 'binder_name', 'page_number', 'slot_number', 'card_id', 'card_name_y', 'set_name', 'card_market_value']
+Portfolio successfully written to test_card_portfolio.csv
+
+📊 Portfolio Summary
+Total Market Value: $326.55
+Most Valuable Card:
+  Name: UNKNOWN
+  ID: base0-4
+  Value: $250.75
+
+Test complete.
